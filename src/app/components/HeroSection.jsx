@@ -41,7 +41,7 @@ const HeroSection = () => {
           </h1>
           <p className="text-[#2c8da1] text-base sm:text-lg mb-6 lg:text-xl">
             
-I am a Computer Science and Engineering graduate from Amity University Noida with a CGPA of 7.33, and have a strong foundation in Data Structures and Algorithms as well as core computer science subjects. My academic background and hands-on experience have equipped me with the skills to tackle complex technical challenges and drive innovative solutions.
+I am a Computer Science Engineering graduate from Amity University Noida, and have a strong foundation in Data Structures and Algorithms as well as core computer science subjects. My academic background and hands-on experience have equipped me with the skills to tackle complex technical challenges and drive innovative solutions.
           </p>
           <div>
             <Link
