@@ -8,7 +8,7 @@ const projectsData = [
   {
     id: 1,
     title: "React Portfolio Website",
-    description: "Project 1 description",
+    description: "My personal portfolio website created using NextJS13 and TailwindCSS",
     image: "/images/projects/1.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 2,
     title: "Photography Portfolio Website",
-    description: "Project 2 description",
+    description: "",
     image: "/images/projects/2.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -26,7 +26,7 @@ const projectsData = [
   {
     id: 3,
     title: "E-commerce Application",
-    description: "Project 3 description",
+    description: "My eCommerce project is a personal initiative focused on creating a user-friendly online store that simplifies shopping with easy navigation, secure payment options, and tailored product recommendations.",
     image: "/images/projects/3.png",
     tag: ["All", "Web"],
     gitUrl: "/",
@@ -35,7 +35,7 @@ const projectsData = [
   {
     id: 4,
     title: "Food Ordering Application",
-    description: "Project 4 description",
+    description: "My Food Ordering Application is a personal mobile project aimed at offering a seamless and intuitive experience for users to browse menus, place orders, and track deliveries from their favorite restaurants.",
     image: "/images/projects/4.png",
     tag: ["All", "Mobile"],
     gitUrl: "/",
