@@ -64,7 +64,7 @@ const TAB_DATA = [
            --&gt;L1 COS Team Intern(Feb'24-June'24)
            ,<p>Interned in the Operations team as an L1 intern.</p>
           </li>
-        <li>Ericcson<br/>
+        <li>Ericsson India<br/>
           <ul>
           --&gt;SWE Intern(May'23-July'23)
           <p>Interned as a SWE + Devops intern, getting hands on experience in the field of AWS Cloud Computing.
