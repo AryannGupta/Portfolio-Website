@@ -103,6 +103,13 @@ const AboutSection = () => {
             excited to work with others to create amazing software.
           </p>
           <div className="flex flex-row justify-start mt-8">
+              <TabButton
+              selectTab={() => handleTabChange("workex")}
+              active={tab === "workex"}
+            >
+              {" "}
+              Work Experience{" "}
+            </TabButton>
             <TabButton
               selectTab={() => handleTabChange("skills")}
               active={tab === "skills"}
@@ -123,13 +130,6 @@ const AboutSection = () => {
             >
               {" "}
               Certifications|Achievements{" "}
-            </TabButton>
-            <TabButton
-              selectTab={() => handleTabChange("workex")}
-              active={tab === "workex"}
-            >
-              {" "}
-              Work Experience{" "}
             </TabButton>
           </div>
           <div className="mt-8">
